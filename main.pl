@@ -9,5 +9,6 @@ pixishex(X, Y, Hex, Depth, Name) :- number(X), number(Y), string(Hex), number(De
 imageIsBitmap([]).
 imageIsBitmap([A,B,[X|T]]) :- pixisbit(X), imageIsBitmap([A,B,T]).
 
+
 image(Largo, Ancho, Pix, [Largo, Ancho, Pix]).
 
