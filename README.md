@@ -7,3 +7,5 @@ Este proyecto fue creado para el 2/2022 para el ramo de paradigmas de programaci
 
 Crear imagen a base a listas, recortarlas y cambiarla a escala de grises
 Cambiar formato de imagenes, rotar imagenes
+
+no fue finalizado en su totalidad
